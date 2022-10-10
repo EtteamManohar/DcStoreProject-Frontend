@@ -1,0 +1,46 @@
+.login-register{
+    display: flex;
+}
+
+.header{
+    height: 40px;
+    display: flex;
+    align-items: center !important;
+    justify-content: flex-end;
+}
+.txtalignCenter{
+    text-align: center;
+}
+
+.login-register a {
+    color: black;
+    text-decoration: none !important;
+}
+.margin_right_20px{
+    margin-right: 20px;
+}
+.margin_left_20px{
+    margin-left: 20px;
+}
+.margin_left_53px{
+margin-left: 53px;
+}
+.margin_right_46px
+{
+margin-right: 46px !important;
+}
+.margin_left_62px{
+margin-left: 62px;
+}
+.margin_left_850px{
+    margin-left: 850px;
+}
+
+.margin_left_1120px {
+    margin-left: 1102px;
+}
+
+a {
+    color: black !important;
+    text-decoration: none !important;
+}

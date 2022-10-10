@@ -1,0 +1,34 @@
+.login-register{
+    display: flex;
+}
+
+.top{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: white !important;
+    height: 60px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.top a {
+    text-decoration: none !important;
+    color: black !important;
+}
+.height36px{
+    height: 36px;
+}
+.font_size_29px{
+font-size: 29px;
+}
+.txt_align_right{
+text-align: right;
+}
+.padding_right_67px{
+    padding-right: 67px;
+}
+.padding_left_69px{
+padding-left: 69px;
+}
